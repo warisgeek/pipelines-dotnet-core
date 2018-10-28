@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://wt007.visualstudio.com/AzureBuild/_apis/build/status/AzureBuild-CI)](https://wt007.visualstudio.com/AzureBuild/_build/latest?definitionId=2)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
